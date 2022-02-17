@@ -1,0 +1,16 @@
+.button {
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 16px;
+    color: #121232;
+    background: #fafafc;
+    border: 2px dotted #121232;
+    border-radius: 4px;
+    padding: 12px 16px;
+    &--save {
+      margin:15px;
+      color: #fafafc;
+      background: #121232;
+      border: 1px solid #121232;
+    }
+  }
